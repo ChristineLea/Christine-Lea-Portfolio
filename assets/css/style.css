@@ -51,6 +51,14 @@ p {
 	font-weight: 500;
 }
 
+.bold {
+	font-weight: 700;
+} 
+
+.italic {
+	font-style: italic;
+	margin-left: 1rem;
+}
 /* UNIVERSAL: LINK styles */
 a {
 	font-weight: 500;
@@ -263,9 +271,9 @@ main {
 	margin: 1rem 0 0;
 }
 
-.overlay .bold {
+/* .overlay .bold {
 	font-weight: 700;
-}
+} */
 
 /* Hover */
 .project-image:hover {
@@ -313,7 +321,7 @@ main {
 
 /* CONTACT SECTION: Button */
 #btn {
-	flex: 0 0 9.3rem;
+	flex: 0 0 10rem;
 	padding: 0.5rem 1rem;
 	border: 2px solid var(--accent);
 	color: var(--accent);

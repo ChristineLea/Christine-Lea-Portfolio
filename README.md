@@ -12,6 +12,7 @@ _How can I structure my portfolio to ensure that it showcases my current
 abilities as I have very few projects to incorporate?_ I have added some
 addition creativity, such as a progress bar to show how close I am to being a
 full stack web developer, as well as projects which are _Under Construction_.
+The hero section of my web page contains the progress bar as seen below: ![Web page hero section](./assets/images/page-sample.png)
 
 ## Installation
 
@@ -28,18 +29,19 @@ Hyperlink to my Git Hub page is included • The View Resume button will open my
 resume in a new tab. • Media queries have enabled a responsive layout.
 
 View the full application live via the following link:
-https://christinelea.github.io/make-it-better/
+https://christinelea.github.io/Christine-Lea-Portfolio/
 
 ## Roadmap
 
 Upcoming features is to update my portfolio section with projects and to
 continue to increase my progress via the progress bar. My resume will be updated
-also.
+also. 
 
 ## Authors and acknowledgment
 
 Acknowledgment to the Monash University, Melbourne, edX boot camp course which I
 am currently undertaking.
+HTML and CSS code validated through W3C Markup Validation Service with no errors found.
 
 ## License
 
