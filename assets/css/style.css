@@ -53,7 +53,7 @@ p {
 
 .bold {
 	font-weight: 700;
-} 
+}
 
 .italic {
 	font-style: italic;
@@ -172,7 +172,6 @@ main {
 	left: 0;
 }
 
-
 /* SECTION LAYOUT: About Me / Portfolio / Contact Me */
 .row-container {
 	margin: 0 0 6rem 0;
@@ -257,7 +256,7 @@ main {
 	justify-content: center;
 	align-items: flex-start;
 	background-color: var(--white-light-b);
-	opacity: 0.7;
+	opacity: 0.9;
 	transition: all 0.5s ease-in-out;
 	color: var(--black-w);
 }
